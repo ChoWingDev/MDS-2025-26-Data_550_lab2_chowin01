@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.conda/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
